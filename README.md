@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ian kessler,20, from Brazil
-- 👀 I’m interested in learning python 
-- 🌱 I’m currently learning python language, when i have a good knowledge i will apply python in the area of ​​data analysis
+- 👀 I’m interested in HTML CSS JS and Desing 
+- 🌱 I’m currently learning front-end technology
 - 💞️ I’m looking for communities that guide and support me so that I have the best path to enter this area.
 - 📫 How to reach me: aratian.akessler@gmail.com
 
