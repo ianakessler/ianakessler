@@ -26,8 +26,7 @@
   
   
   
-  <a href="https://ianakessler.github.io/Starbucks-Clone/pages/" target="_blank">Starbucks Clone</a>
-  <p><a href="https://github.com/ianakessler/Starbucks-Clone/blob/main/README.md">description</a><p>
+  <a href="https://ianakessler.github.io/Starbucks-Clone/pages/" target="_blank">Starbucks Clone</a> | <a href="https://github.com/ianakessler/Starbucks-Clone/blob/main/README.md">description</a>
    <BR>                                                                     
   <a href="https://ianakessler.github.io/LANDING-PAGE-02/pages/" target="_blank">LANDING PAGE 02</a>
    <BR>                                                                    
