@@ -12,6 +12,7 @@
   <img align="center" alt="-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="jquery" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
   <img align="center" alt="-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
 </div>
   
   ##
@@ -25,9 +26,9 @@
   <h1>My Projects| Meus projetos</h1>
   
   <a href="https://miniprojeto-react.vercel.app/" target="_blank">Minirojeto React.js</a>
-  <br>
-  < a href="https://organograma-one.vercel.app/" target="_blank">Organo</a>
-  <BR>
+   <BR>
+  <a href="https://organograma-one.vercel.app/" target="_blank">Organo</a>
+   <BR>
   <a href="https://ianakessler.github.io/Starbucks-Clone/pages/" target="_blank">Starbucks Clone</a> 
    <BR>                                                                     
   <a href="https://ianakessler.github.io/LANDING-PAGE-02/pages/" target="_blank">LANDING PAGE 02</a>
