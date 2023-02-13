@@ -24,9 +24,11 @@
 </div>
   <h1>My Projects| Meus projetos</h1>
   
-  
-  
-  <a href="https://ianakessler.github.io/Starbucks-Clone/pages/" target="_blank">Starbucks Clone</a> | <a href="https://github.com/ianakessler/Starbucks-Clone/blob/main/README.md">description</a>
+  <a href="https://miniprojeto-react.vercel.app/" target="_blank">Minirojeto React.js</a>
+  <br>
+  < a href="https://organograma-one.vercel.app/" target="_blank">Organo</a>
+  <BR>
+  <a href="https://ianakessler.github.io/Starbucks-Clone/pages/" target="_blank">Starbucks Clone</a> 
    <BR>                                                                     
   <a href="https://ianakessler.github.io/LANDING-PAGE-02/pages/" target="_blank">LANDING PAGE 02</a>
    <BR>                                                                    
