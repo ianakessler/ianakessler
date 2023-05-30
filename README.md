@@ -30,9 +30,7 @@
    <BR>
   <a href="https://organograma-one.vercel.app/" target="_blank">Organo</a>
   <br/>
-   <BR>
-  <a href="https://ianakessler.github.io/Starbucks-Clone/pages/" target="_blank">Starbucks Clone</a> 
-   <BR>                                                                     
+   <BR>                                                                   
   <a href="https://ianakessler.github.io/LANDING-PAGE-02/pages/" target="_blank">LANDING PAGE 02</a>
    <BR>                                                                    
   <a href="https://ianakessler.github.io/LANDING-PAGE-03/pages/" target="_blank">LANDING PAGE 03</a>
