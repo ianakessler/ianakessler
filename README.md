@@ -24,7 +24,6 @@ ian Kessler, 21, from Brazil
   <h1>My Projects| Meus projetos</h1>
   
   <a href="https://apod-github.vercel.app/" target="_blank">API APOD com axios</a>
-  <BR>
   <br>
   <a href="https://organograma-one.vercel.app/" target="_blank">Organo</a>
   <br>
