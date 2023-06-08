@@ -20,11 +20,9 @@ ian Kessler, 21, from Brazil
   <a href="https://github.com/ianakessler/apod/blob/main/README.md" target="_blank">API APOD com axios</a>
   <br>
   <BR>
-  <a href="https://organograma-one.vercel.app/" target="_blank">Organo</a>
+  <a href="https://organograma-one.vercel.app/" target="_blank">Organograma react.js</a>
   <br>
     <BR>
   <a href="https://miniprojeto-react.vercel.app/" target="_blank">Minirojeto React.js</a>    
   <br>
-  <a href="https://ianakessler.github.io/LANDING-PAGE-02/pages/" target="_blank">LANDING PAGE 02</a>   
-  <br>
-  <a href="https://ianakessler.github.io/LANDING-PAGE-03/pages/" target="_blank">LANDING PAGE 03</a>
+  <a href="https://ianakessler.github.io/LANDING-PAGE-03/pages/" target="_blank">LANDING PAGE</a>
