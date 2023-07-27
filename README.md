@@ -15,17 +15,4 @@ ian Kessler, 21, from Brazil
  
  
 </div>
-  <h1>My Projects| Meus projetos</h1>
   
-  <a href="https://cinetag-virid.vercel.app/" target="_blank">Cinetag: Aplicação react.js</a>
-  <br>
-  <BR>
-  <a href="https://github.com/ianakessler/apod/blob/main/README.md" target="_blank">API APOD com axios: Aplicação react.js</a>
-  <br>
-  <BR>
-  <a href="https://organograma-one.vercel.app/" target="_blank">Organograma: Aplicação react.js</a>
-  <br>
-    <BR>
-  <a href="https://miniprojeto-react.vercel.app/" target="_blank">Minirojeto React.js</a>    
-  <br>
-  <a href="https://ianakessler.github.io/LANDING-PAGE-03/pages/" target="_blank">LANDING PAGE</a>
